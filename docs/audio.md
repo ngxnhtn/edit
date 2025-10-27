@@ -36,7 +36,7 @@
 * ⭐ **[SoundCloud](https://soundcloud.com/)** - User Made Songs
 * ⭐ **[TrackerHub](https://artistgrid.cx/)** - Unreleased / [Discord](https://discord.gg/trackerhub)
 * [Spotify](https://open.spotify.com/) - Web Player /  [Enhanced UI](https://senpaihunters.github.io/SpotOn/) / [Lyrics](https://github.com/mantou132/Spotify-Lyrics) / [Lyrics Script](https://greasyfork.org/en/scripts/377439)
-* [Monochrome](https://monochrome.tf/), [2](https://monochrome.prigoana.com/) / [GitHub](https://github.com/eduardprigoana/monochrome),, [squid.wtf](https://tidal.squid.wtf), [⁠Digger](https://digger-ui.vercel.app/), [QQDL](https://tidal.qqdl.site/) or [BiniLossless](https://music.binimum.org/) - HiFi Tidal Instances / [Full List](https://github.com/eduardprigoana/hifi-instances/)
+* [Monochrome](https://monochrome.tf/), [2](https://monochrome.prigoana.com/) / [GitHub](https://github.com/eduardprigoana/monochrome), [squid.wtf](https://tidal.squid.wtf), [⁠Digger](https://digger-ui.vercel.app/), [QQDL](https://tidal.qqdl.site/) or [BiniLossless](https://music.binimum.org/) - HiFi Tidal Instances / [Full List](https://github.com/eduardprigoana/hifi-instances/)
 * [Audiomack](https://audiomack.com/) - Browser Music
 * [Pandora](https://www.pandora.com/) - Browser Music
 * [Jango](https://jango.com/) - Browser Music
